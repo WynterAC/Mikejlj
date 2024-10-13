@@ -1,6 +1,9 @@
 {
-  "baseFontSize": 21,
+  "baseFontSize": 15,
   "cssTheme": "Things",
+ "interfaceFontFamily": "Arial Unicode MS,HelveticaNeue-Light,HelveticaNeue-Thin",
+  "textFontFamily": "HelveticaNeue-Thin,HelveticaNeue-Light,HelveticaNeue-LightItalic,HelveticaNeue-ThinItalic,HelveticaNeue-UltraLight,HelveticaNeue-UltraLightItalic,Helvetica Neue",
+  "monospaceFontFamily": "Shree Devanagari 714",
   "enabledCssSnippets": [
     "supercharged_link_show_score_progress",
     "clean_imbeds_all",
@@ -11,7 +14,8 @@
     "supercharged_link_show_status",
     "custom-admonitions.c9c6cb",
     "supercharged_link_show_score",
-    "snippets"
+    "snippets",
+    "_bold font"
   ],
   "theme": "obsidian",
   "accentColor": "",
